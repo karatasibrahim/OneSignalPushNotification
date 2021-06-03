@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehKJfMaUihNi73Oeq7lt8t2PkBiWsYKLSn4zjG5JXdEcPGAFvcFKUvBkC2ALyttWb4J2xdkwlTeS7Eg03E3OQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\source\\repos\\Etiyoloji\\Etiyoloji\\Etiyoloji\\Etiyoloji.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\com.onesignal\\3.10.5\\com.onesignal.3.10.5.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

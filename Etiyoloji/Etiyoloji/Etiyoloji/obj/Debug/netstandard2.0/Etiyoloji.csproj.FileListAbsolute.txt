@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\bin\Debug\netstandard2.0\Etiyoloji.deps.json
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\bin\Debug\netstandard2.0\Etiyoloji.dll
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\bin\Debug\netstandard2.0\ref\Etiyoloji.dll
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\bin\Debug\netstandard2.0\Etiyoloji.pdb
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.dll
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\ref\Etiyoloji.dll
+C:\Users\ibrah\source\repos\Etiyoloji\Etiyoloji\Etiyoloji\obj\Debug\netstandard2.0\Etiyoloji.pdb
